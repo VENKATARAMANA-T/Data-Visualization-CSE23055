@@ -1,0 +1,3 @@
+Markdown : used to type text
+Matplotlib : Library in python used for data vis
+pyplot : submodule of Matplotlib used to plot
